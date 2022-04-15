@@ -16,11 +16,22 @@
 .center-div {
 font-family: 'Roboto', sans-serif;
 margin: 50px;
-background-color: #e5ffe7;
-border: 3px solid green;
 padding: 10px;
+border: 3px solid green;
 text-align: center;
-border-radius: 10px;
+border-radius: 15px;
+}
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+}
+#input{
+  font-family: "Montserrat", sans-serif;
+  background: none;
+  height: 25px;
+  width: 70%;
+  text-align: center;
+  outline: none;
+  border-radius: 10px;
 }
 .button{
   background-color: black;
@@ -36,6 +47,9 @@ border-radius: 10px;
   border-color: #a7ccd4;
   border-radius: 20px;
   padding: 15px;
+}
+.buttonmain:hover {
+  opacity: 0.9;
 }
 #header{
   background-color: #c48f96;
