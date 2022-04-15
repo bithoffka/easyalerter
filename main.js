@@ -1,9 +1,9 @@
 console.log('Hello World!');
-let a = document.getElementById('idik')
+let a = document.getElementById('input')
 console.log(a)
 console.log(typeof a)
 function gettxt(){
-  var b = document.getElementById('idik').value;
+  var b = document.getElementById('input').value;
   console.log(b);
   console.log(typeof b);
   if (document.getElementById('def').checked == true){
