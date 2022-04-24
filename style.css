@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway:ital,wght@1,300&display=swap');
 .gray {
   color: gray;
 }
@@ -14,7 +14,7 @@
   font-size: 12px;
 }
 .center-div {
-font-family: 'Roboto', sans-serif;
+font-family: 'Raleway', sans-serif;
 margin: 50px;
 padding: 10px;
 border: 3px solid green;
