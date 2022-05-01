@@ -65,3 +65,10 @@ border-radius: 15px;
 #menu {
   text-align: right;
 }
+.blue-block {
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid #9baad4;
+  border-radius: 10px;
+  background-color: #9baad4;
+}
