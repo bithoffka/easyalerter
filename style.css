@@ -37,9 +37,10 @@ border-radius: 15px;
   background-color: black;
   color: white;
   border: none;
-  font-size: 10px;
+  font-size: 16px;
   border-color: #a7ccd4;
   padding: 10px;
+  border-radius: 8px;
 }
 .buttonmain{
   background-color: #a7ccd4;
